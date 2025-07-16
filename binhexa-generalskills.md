@@ -9,6 +9,8 @@
 
 **Date Completed:** July 14, 2025
 
+**Writeup Published:** July 14, 2025
+
 **Directions:** How well can you perform basic binary operations? Start searching for the flag here: nc titan.picoctf.net 57697 
 
 
@@ -23,7 +25,7 @@
 
  [Binary to Hexadecimal Calculator:](https://www.rapidtables.com/convert/number/binary-to-hex.html)
 
-# Solution: 
+# Solution (During the Challenge): 
 1. It gave me 2 binary numbers. It told me to add them: Numbers: ( 00110001, 11000101)
 2. The direction said to do a left shift on Number 1:
 3. Answer: 01100010
