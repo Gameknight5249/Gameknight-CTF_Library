@@ -25,15 +25,22 @@ I saw that within the challenge, it said it was base64. One of the hints also sa
 
   [Base64 decoder](https://www.base64decode.org/)
 
-# Solution (During the Challenge): 
-
-
+# Solution (What I Did During the Challenge): 
+My strategy was mostly correct.
+1. I pasted the file in my webshell browswer
+2. There was a file called "enc_flag"
+3. I opened it; it had a base64 code.
+4. I copy pasted the code in a decoder.
+5. I decoded the code, it gave me another base64 code.
+6. I tried the new base64 code again, it gave me another base64 code.
+7. I kept decoding the new code about seven or eight times and I eventually got the flag 
 
 # Flag: 
 
+You have to keep decoding the new base64 code over and over again; after seven to eight times, you will recieve the flag
 
 # Mistakes I made:
-
+I almost stopped decoding the base64 code after three or four times
    
 # What I Learned:
-
+I learned the tell-tale sign of a base64 code: the two equal to signs at the end: "==" 
