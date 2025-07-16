@@ -1,4 +1,4 @@
-# Challenge Name: 
+# Challenge Name: repetitions
 
 **Category:** General Skills
 
@@ -8,32 +8,32 @@
 
 **Date Completed:** July 16, 2025
 
-**Directions:** How well can you perform basic binary operations? Start searching for the flag here: nc titan.picoctf.net 57697 
+**Writeup Published:** July 16, 2025
 
+**Directions:** Can you make sense of this file? Download the file [here](https://artifacts.picoctf.net/c/475/enc_flag).
 
  # Initial Observation: 
- The problem was going to be about binary operation: thus I needed to know how to add, substract, multiply, divide, right shift, and left shift binary numbers. 
+I saw that within the challenge, it said it was base64. One of the hints also said, "Multiple decoding is good." At that point I knew that there was going to be a base 64 code and I had to decode it multiple times; I just had to research what base 64 code was. 
 
  # Strategy (During the Challenge):
- Open up the link in the browser webshell - see what operation it wanted me to do - open up an online binary calculator - plug in the numbers- plug in the answers into the browser webshell
+1. Open the file up
+2. Research what base64 was.
+3. Use an online decoder
+4. Hopefully, find the answer after decoding it twice or thrice. 
 
  # Tools Used:
- [Online Binary Operation Calculators:](https://www.calculator.net/binary-calculator.html)
 
- [Binary to Hexadecimal Calculator:](https://www.rapidtables.com/convert/number/binary-to-hex.html)
+  [Base64 decoder](https://www.base64decode.org/)
 
-# Solution: 
-1. It gave me 2 binary numbers. It told me to add them: Numbers: ( 00110001, 11000101)
-2. The direction said to do a left shift on Number 1:
-3. Answer: 01100010
-4. This repeats six times. Each a different operation relating to the two numbers that were given.
-5. Lastly, it asks to convert a binary answer into a hexadecimal number.
+# Solution (During the Challenge): 
+
+
 
 # Flag: 
-After completing all of the binary operation questions, it will ask you to convert a binary answer to a hexadecimal number; after you enter the number, the flag will be given to you. 
+
 
 # Mistakes I made:
-1. I was doing the binary operations on paper, which was slow and error-prone. But using an online calculator increased speed and accuracy 
+
    
 # What I Learned:
-1. I learned that I don't need to reinvent the wheel and that using calculators and other likewise tools are useful for solving CTF challenges
+
