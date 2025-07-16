@@ -11,29 +11,34 @@
 **Directions:** I accidentally wrote the flag down. Good thing I deleted it! You download the challenge files here: [challenge.zip](https://artifacts.picoctf.net/c_titan/75/challenge.zip)
 
 
- # Intial Observation: 
- The problem was going to be about binary operation: thus I needed to know how to add, substract, multiply, divide, right shift, and left shift binary numbers. 
+ # Initial Observation: 
+The direction said, the flag was deleted, but what I learned in the Collaborative Development challenge, I could find the previous commit and see whether the flag was there or not. I thought it was going to be easy since I just learned a bunch of git commands.
 
  # Strategy:
- Open up the link in the browser webshell - see what operation it wanted me to do - open up an online binary calculator - plug in the numbers- plug in the answers into the browser webshell
+ 1. Unzip the file
+ 2. Use "git log" to see the previous commits
+ 3. Find a suspicious-looking commit.
+ 4. Open that commit with git show
+ 5. Hopefully, find the flag in there
 
  # Tools Used:
- Online Binary Operation Calculators: (https://www.calculator.net/binary-calculator.html)
-
- Binary to Hexademical Caluclator: (https://www.rapidtables.com/convert/number/binary-to-hex.html)
+ I did not use any extra tools since I knew the commands to find the flag. 
 
 # Solution: 
-1. It gave me 2 binary numbers. I told me to add them: Numbers: ( 00110001, 11000101)
-2. The direction said do a left shift on Number 1:
-3. Answer: 01100010
-4. This repeats six times. Each with different operation relating the two numbers that were given.
-5. Lastly it ask to convert a binary answer into hexadecimal number.
+My strategy was correct: 
+
+1. You unzip the file
+2. Don't waste any time searching around the files, just type in "git log" and look at the previous commits.
+3. There are only two commits: One of them says " Removing sensitive info."
+4. Copy and paste that suspicious commit:
+5. Use "git show" to open the commit
+6. You will be able to see the flag when you do that
 
 # Flag: 
-After completing all of the binary operation questions; it will ask you to convert a binary answer to a hexadecimal number; after you enter the number, the flag will be given to you. 
+
 
 # Mistakes I made:
-1. I was doing the binary operations on paper which was slow and error-prone. but using an online calculator increased speed and accurarcy 
+
    
 # What I Learned:
-1. I learned that I don't need to reinvent the whell and that using calculators and other likewise tools are useful for solving CTF challenges
+
