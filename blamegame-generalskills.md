@@ -19,7 +19,7 @@ The directions talk about commits, so I assumed it the challenge required me to 
 
  # Strategy (During the Challenge):
  1. Unzip the file
- 2. Use git log to look thorugh all the commits
+ 2. Use git log to look through all the commits
  3. Maybe use grep if there are a lot of logs
  4. Find the flag within one of the commits
 
@@ -29,7 +29,7 @@ I didn't use any extra tools in either of the solutions; I just used my knowledg
 
 # Solution (What I did during the challenge):
 1. I unzipped the file
-2. I used git log to look through all of the commits.
+2. I used "git log" to look through all of the commits.
 3. I quickly scrolled through all of the commits; I did not find the flag at the top or bottom of the commit log.
 4. Then I looked through all of the files using "cd" and "ls".
 5. I found a file named "HEAD" within the logs folder.
@@ -48,4 +48,13 @@ When I found the flag, I got confused because I had just scrolled through the co
 The flag is somewhere in the middle of the commit log.
 
 # Mistakes I made:
+
+I assumed that the flag would be in an easily identifiable place.
+I was working hastily; I should slow down and work methodically 
+
+# What I Learned:
+
+I learned that there are multiple solutions to a problem, each with its own pros and cons.
+
+
 
