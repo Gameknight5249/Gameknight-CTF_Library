@@ -14,7 +14,7 @@
  # Initial Observation: 
 The direction said the flag was deleted, but what I learned in the Collaborative Development challenge, I could find the previous commit and see whether the flag was there or not. I thought it was going to be easy since I just learned a bunch of git commands.
 
- # Strategy:
+ # Strategy (During the Challenge):
  1. Unzip the file
  2. Use ["git log"](https://careerkarma.com/blog/git-log/) to see the previous commits
  3. Find a suspicious-looking commit.
