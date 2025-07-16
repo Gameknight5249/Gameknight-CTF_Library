@@ -45,24 +45,24 @@ Once you have found all three pieces, put them together and you will create the 
 
 1. I learned several commands: 
 
-"git log" 
+["git log"](https://git-scm.com/docs/git-log)
 
-"git show" 
+["git show"](https://www.atlassian.com/git/tutorials/git-show) 
 
-"git diff" 
+["git diff"](https://www.atlassian.com/git/tutorials/saving-changes/git-diff) 
 
-"git branch -a" 
+["git branch -a"](https://www.atlassian.com/git/tutorials/using-branches) 
 
-"git log -p" 
+["git log -p"](https://git-scm.com/docs/git-log) 
 
-"git checkout"
+["git checkout"](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
 
-"git config"
+["git config"](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 
-"cat"
+["cat"](https://phoenixnap.com/kb/linux-cat-command)
 
-"nano"
+["nano"](https://ioflood.com/blog/nano-linux-command/)
 
-"unzip (filename)" 
+["unzip (filename)"](https://www.geeksforgeeks.org/linux-unix/unzip-command-in-linux/) 
 
-"ls -la ( helps find hidden files)" 
+["ls -a ( helps find hidden files)"](https://phoenixnap.com/kb/ls-command) 
