@@ -12,13 +12,13 @@
 
 
  # Initial Observation: 
-The direction said, the flag was deleted, but what I learned in the Collaborative Development challenge, I could find the previous commit and see whether the flag was there or not. I thought it was going to be easy since I just learned a bunch of git commands.
+The direction said the flag was deleted, but what I learned in the Collaborative Development challenge, I could find the previous commit and see whether the flag was there or not. I thought it was going to be easy since I just learned a bunch of git commands.
 
  # Strategy:
  1. Unzip the file
- 2. Use "git log" to see the previous commits
+ 2. Use ["git log"](https://careerkarma.com/blog/git-log/) to see the previous commits
  3. Find a suspicious-looking commit.
- 4. Open that commit with git show
+ 4. Open that commit with ["git show"](https://www.atlassian.com/git/tutorials/git-show)
  5. Hopefully, find the flag in there
 
  # Tools Used:
@@ -35,10 +35,11 @@ My strategy was correct:
 6. You will be able to see the flag when you do that
 
 # Flag: 
-
+The flag will be at the bottom of the old commit; it's quite easy to find
 
 # Mistakes I made:
-
+1. I wasted time using ls -a to search for the flag within the files when I knew the flag was somewhere in the commits 
    
 # What I Learned:
+This challenge just reinforced my knowledge of git commands: " git log" and "git show" 
 
