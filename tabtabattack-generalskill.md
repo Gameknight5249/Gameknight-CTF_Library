@@ -31,6 +31,7 @@ My strategy was almost correct:
 3. I used "grep -r" to search for the flag within the subdirectories.
 4. Binary match comes up deep within the subdirectories, thus I had to navigate through all of the subdirectories to get to the binary file
 5. I used ["cat"](https://www.linuxteck.com/basic-cat-command-in-linux-with-examples/) to open the binary file, and then you will see your flag
+6. (The flag blends in with all of the text, so make sure to search properly.)
 
 # Flag: 
 
@@ -39,8 +40,9 @@ The flag is deep within the subdirectories; within a binary file; use "cat" to o
 
 # Mistakes I made:
 
-I didn't make any mistakes in this challenge; it was quite straightforward
+I didn't search for the flag properly within the files; I just kept skimming the text and kept missing the flag.
 
 # What I Learned:
 
 I learned that "grep -r" cannot search through binary files
+I learned that I could copy and paste text from a file, such as the binary file in this challenge, and paste it into Google Docs to search for the flag using "Ctrl f". 
