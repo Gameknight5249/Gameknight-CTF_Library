@@ -57,12 +57,18 @@ I spent a lot of time trying to understand the code when I hadn't researched the
 I learned that researching is the best tool I have
 I also learned new keywords in Python:
 
-["def"](https://www.w3schools.com/python/python_ref_keywords.asp): All of the keywords are in this link
-"while"
-"return"
-"for"
-"in"
-"elif"
-'else"
+["def"](https://www.w3schools.com/python/python_ref_keywords.asp)
+
+["while"](https://www.w3schools.com/python/python_ref_keywords.asp)
+
+["return"](https://www.w3schools.com/python/python_ref_keywords.asp)
+
+["for"](https://www.w3schools.com/python/python_ref_keywords.asp)
+
+["in"](https://www.w3schools.com/python/python_ref_keywords.asp)
+
+["elif"](https://www.w3schools.com/python/python_ref_keywords.asp)
+
+["else"](https://www.w3schools.com/python/python_ref_keywords.asp)
 
 
