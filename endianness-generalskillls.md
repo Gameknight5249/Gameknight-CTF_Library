@@ -48,3 +48,4 @@ After finding the little and big endian representations, the challenge will pres
    
 # What I Learned:
 
+I learned that everything online isn't always right and that I should always check the context in which concepts and commands are being used in. 
