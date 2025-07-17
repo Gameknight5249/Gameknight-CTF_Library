@@ -26,7 +26,7 @@ The direction said the flag was deleted, but what I learned in the Collaborative
  # Tools Used:
  I did not use any extra tools since I knew the commands to find the flag. 
 
-# Solution: 
+# Solution (What I Did During the Challenge): 
 My strategy was correct: 
 
 1. You unzip the file
