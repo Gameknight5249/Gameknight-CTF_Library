@@ -17,7 +17,7 @@
  # Initial Observation: 
  The problem was going to be about binary operation: thus I needed to know how to add, substract, multiply, divide, right shift, and left shift binary numbers. 
 
- # Strategy (What I dDid During the Challenge):
+ # Strategy (During the Challenge):
  Open up the link in the browser webshell - see what operation it wanted me to do - open up an online binary calculator - plug in the numbers- plug in the answers into the browser webshell
 
  # Tools Used:
@@ -25,7 +25,7 @@
 
  [Binary to Hexadecimal Calculator:](https://www.rapidtables.com/convert/number/binary-to-hex.html)
 
-# Solution (During the Challenge): 
+# Solution (What I Did During the Challenge): 
 1. It gave me 2 binary numbers. It told me to add them: Numbers: ( 00110001, 11000101)
 2. The direction said to do a left shift on Number 1:
 3. Answer: 01100010
