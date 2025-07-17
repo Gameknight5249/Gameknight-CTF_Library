@@ -25,7 +25,7 @@ You can download the challenge files here:
  # Tools Used:
 ChatGPT: to research and learn about the different git commands: ( Ex: git log or git branch -a) 
 
-# Solution: 
+# Solution (What I Did During the Challenge): 
 1. Paste the link in the webshell
 2. "cd" into drop-in
 3. Then unzip challenge.zip
