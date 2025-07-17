@@ -9,6 +9,8 @@
 
 **Date Completed:** July 16, 2025
 
+**Writeup Published:** July 16, 2025
+
 **Directions:** What was I last working on? I remember writing a note to help me remember... You can download the challenge files here: [challenge.zip](https://artifacts.picoctf.net/c_titan/160/challenge.zip)
 
 
