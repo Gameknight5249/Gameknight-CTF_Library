@@ -13,7 +13,7 @@
 **Directions:** Can you make sense of this file? Download the file [here](https://artifacts.picoctf.net/c/475/enc_flag).
 
  # Initial Observation: 
-I saw that within the challenge, it said it was base64. One of the hints also said, "Multiple decoding is good." At that point, I knew that there was going to be a base 64 code and I had to decode it multiple times; I just had to research what base 64 code was. 
+I saw that within the challenge, it said it was base64. One of the hints also said, "Multiple decoding is good." At that point, I knew that there was going to be a base 64 code, and I had to decode it multiple times; I just had to research what [base64 code](https://keploy.io/blog/community/understanding-base64-decoding) was. 
 
  # Strategy (During the Challenge):
 1. Open the file up
@@ -43,4 +43,4 @@ You have to keep decoding the new base64 code over and over again; after seven t
 I almost stopped decoding the base64 code after three or four times
    
 # What I Learned:
-I learned the tell-tale sign of a base64 code: the two equal to signs at the end: "==" 
+I learned the tell-tale sign of a base64 code: the two "equal to" signs at the end: "==" 
