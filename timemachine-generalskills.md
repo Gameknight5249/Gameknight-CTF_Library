@@ -26,7 +26,7 @@
  # Tools Used:
  Didn't use any tools; just my knowledge about git commands
 
-# Solution: 
+# Solution (What I Did During the Challenge): 
 My strategy was almost correct:
 1. You unzip the file
 2. Use "git log" to open up the previous commits
