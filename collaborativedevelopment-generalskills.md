@@ -27,8 +27,8 @@ ChatGPT: to research and learn about the different git commands: ( Ex: git log o
 
 # Solution (What I Did During the Challenge): 
 1. Paste the link in the webshell
-2. "cd" into drop-in
-3. Then unzip challenge.zip
+2. Then unzip challenge.zip"cd" into drop-in
+3. "cd" into drop-in
 4. Then you will find another folder named drop-in; "cd" into it.
 5. You find a file named: flag.py
 6. You use the command: "git branch -a"; you find three things: feature/part-1, feature/part-2, feature/part-3
