@@ -8,7 +8,7 @@
 
 **Date Completed:** July 17, 2025
 
-**Writeup Published:** July 17, 2025
+**Writeup Published:** July 18, 2025
 
 **Directions:** There's a flag shop selling stuff, can you buy a flag? [Source](https://jupiter.challenges.picoctf.org/static/64e724ad327f83ad833d9c6baa072b1f/store.c). Connect with nc jupiter.challenges.picoctf.org 4906.
 
