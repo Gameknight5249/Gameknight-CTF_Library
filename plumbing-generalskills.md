@@ -28,7 +28,7 @@ I did not use any extra tools
 # Solution (What I Did During the Challenge): 
 1. Connect to the challenge using "nc"
 2. Use the concept of "pipes" to use " grep" to search for the flag
-<img width="977" height="529" alt="Screenshot 2025-07-17 170639" src="https://github.com/user-attachments/assets/867bc3b8-a038-42bf-bdf8-4ef4d86da5d2" />
+<img width="977" height="529" alt="Screenshot 2025-07-17 170639" src="https://github.com/user-attachments/assets/f1d8d5b3-0d01-44fc-9e77-f749267666ed" />
 
 
 3. "Pipes" basically means you take the output of one command, and that output turns into the input for another command
