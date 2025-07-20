@@ -11,24 +11,41 @@
 **Writeup Published:** July 19, 2025
 
 **Directions:** 
-
+Can you get the flag? Go to this [website](http://saturn.picoctf.net:51819/) and see what you can discover.
 
  # Initial Observation: 
+  Looks like it's just a website
+
+  The name suggests that the flag may be in the ["source code"](https://en.wikipedia.org/wiki/Source_code) of the website
   
+ The hints make me think that I have to use the ["web inspector"](https://wpengine.com/resources/how-to-inspect-a-website/) to view the "source code."
 
  # Strategy (During the Challenge):
-
-
+1. Open the website
+2. Open the "web inspector"
+3. Click on the Sources tab within the "web inspector"
+4. Hopefully, find the flag within it.
+   
  # Tools Used:
 
+"Web Inspector"
 
 # Solution (What I Did During the Challenge): 
-
+My strategy was correct:
+1. I opened the website by clicking on the link provided in the directions
+2. I opened the "web inspector"
+3. I opened the Sources tab
+4. I immediately saw the flag within the "source code"
 
 # Flag: 
 
+The flag is within the "source code" of the website
 
 # Mistakes I made:
 
+I did not make any mistakes in this challenge: I knew all of the concepts
    
 # What I Learned:
+I learned new ways to view the "source code" of a page
+I learned that flags can be inserted within the "source code" without affecting its functionality.
+
