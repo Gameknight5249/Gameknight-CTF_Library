@@ -1,0 +1,57 @@
+
+# Challenge Name: Bookmarklet
+
+**Category:** Web Explotation
+
+**Difficulty:** Easy
+
+**Date Completed:**  July 22, 2025
+
+**Writeup Published:** July 25, 2025 
+
+**Directions:**  Why search for the flag when I can make a bookmarklet to print it for me?
+Browse [here](http://titan.picoctf.net:64312/) and find the flag!
+
+ # Initial Observation: 
+
+1. The hints tell me what a [bookmarklet](https://www.freecodecamp.org/news/what-are-bookmarklets/) is, so I don't need to research it
+
+2. I need to run JavaScript
+
+3. The website has JavaScript code on it, so maybe I have to run it, and it will give a hint on how to find the flag
+
+ # Strategy (During the Challenge):
+1. Open the website
+2. Copy the code
+3. Open the ["Inspect"](https://zapier.com/blog/inspect-element-tutorial/) of the page
+4. Navigate to the Console Tab
+5. Paste the JavaScript there
+6. See what hint it gives me
+
+
+ # Tools Used:
+
+I used the "Inspect" feature
+
+# Solution (What I Did During the Challenge): 
+
+My strategy was 90% correct:
+
+1. I opened the website
+2. I copied the code
+3. I pasted the code in the Console Tab within the "Inspect" feature
+4. I ran the JavaScript
+5. It gave me the flag
+
+# Flag: 
+
+You will receive the flag when you run the JavaScript from the website
+
+# Mistakes I made:
+
+I did not make any mistakes in this challenge
+
+# What I Learned:
+
+I learned that I could use the Console Tab within the "Inspect" feature to run JavaScript
+
