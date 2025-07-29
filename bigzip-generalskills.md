@@ -22,7 +22,7 @@ It looks like its a huge zip file, with a bunch of directoeries and subdirectori
   3. If it's not, research how to use grep to find the flag within the zip file. 
 
  # Tools Used:
-ChatGPT: To research what "grep" does. Also, to research all of the modifiers that come with the "grep" command
+- ChatGPT: To research what "grep" does. Also, to research all of the modifiers that come with the "grep" command
 
 # Solution (What I Did During the Challenge): 
 1. I unzipped the file
@@ -31,14 +31,16 @@ ChatGPT: To research what "grep" does. Also, to research all of the modifiers th
 
 # Flag: 
 
-After using "grep -r" on all of the files, you find the flag easily
+- After using "grep -r" on all of the files, you find the flag easily
 
 # Mistakes I made:
 
-I made a weird mistake/fluke. Not all of the files were inflated on my browser webshell, thus I was missing files. When I tried to use "grep -r" to find the flag, it did not work.
+- I made a weird mistake/fluke. 
+- Not all of the files were inflated on my browser webshell, thus I was missing files. 
+- When I tried to use "grep -r" to find the flag, it did not work.
  
    
 # What I Learned:
 
-Always check whether your files are completely unzipped; otherwise, you are missing files that may be important. 
+- Always check whether your files are completely unzipped; otherwise, you are missing files that may be important. 
 
