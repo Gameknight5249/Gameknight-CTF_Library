@@ -15,7 +15,7 @@
 
 
  # Initial Observation: 
-The directions talk about commits, so I assumed it the challenge required me to use git commands. I didn't know which command, though
+- The directions talk about commits, so I assumed it the challenge required me to use git commands. I didn't know which command, though
 
  # Strategy (During the Challenge):
  1. Unzip the file
@@ -24,7 +24,7 @@ The directions talk about commits, so I assumed it the challenge required me to 
  4. Find the flag within one of the commits
 
  # Tools Used:
-I didn't use any extra tools in either of the solutions; I just used my knowledge of commands. 
+- I didn't use any extra tools in either of the solutions; I just used my knowledge of commands. 
 
 
 # Solution (What I did during the challenge):
@@ -37,7 +37,7 @@ I didn't use any extra tools in either of the solutions; I just used my knowledg
 7. Within the first three commit logs, my flag was there.
 
 # Solution (A more efficient method)
-When I found the flag, I got confused because I had just scrolled through the commit log 5 minutes ago: I found out my intial strategy was good, I just executed it wrong.
+- When I found the flag, I got confused because I had just scrolled through the commit log 5 minutes ago: I found out my initial strategy was good, I just executed it wrong.
 1. Unzip the file
 2. Use "git log" to look through all of the commits
 3. Make sure to scroll carefully through all of the commits since the flag is somewhere in the middle, not at the top or bottom as I assumed before.
@@ -45,16 +45,16 @@ When I found the flag, I got confused because I had just scrolled through the co
 
 # Flag: 
 
-The flag is somewhere in the middle of the commit log.
+- The flag is somewhere in the middle of the commit log.
 
 # Mistakes I made:
 
-I assumed that the flag would be in an easily identifiable place.
-I was working hastily; I should slow down and work methodically 
+- I assumed that the flag would be in an easily identifiable place.
+- I was working hastily; I should slow down and work methodically 
 
 # What I Learned:
 
-I learned that there are multiple solutions to a problem, each with its own pros and cons.
+- I learned that there are multiple solutions to a problem, each with its own pros and cons.
 
 
 
