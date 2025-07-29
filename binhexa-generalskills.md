@@ -15,10 +15,10 @@
 
 
  # Initial Observation: 
- The problem was going to be about binary operation: thus I needed to know how to add, substract, multiply, divide, right shift, and left shift binary numbers. 
+- The problem was going to be about binary operation: thus I needed to know how to add, substract, multiply, divide, right shift, and left shift binary numbers. 
 
  # Strategy (During the Challenge):
- Open up the link in the browser webshell - see what operation it wanted me to do - open up an online binary calculator - plug in the numbers- plug in the answers into the browser webshell
+- Open up the link in the browser webshell - see what operation it wanted me to do - open up an online binary calculator - plug in the numbers- plug in the answers into the browser webshell
 
  # Tools Used:
  [Online Binary Operation Calculators:](https://www.calculator.net/binary-calculator.html)
@@ -33,11 +33,11 @@
 5. Lastly, it asks to convert a binary answer into a hexadecimal number.
 
 # Flag: 
-After completing all of the binary operation questions, it will ask you to convert a binary answer to a hexadecimal number; after you enter the number, the flag will be given to you. 
+- After completing all of the binary operation questions, it will ask you to convert a binary answer to a hexadecimal number; after you enter the number, the flag will be given to you. 
 
 # Mistakes I made:
-1. I was doing the binary operations on paper, which was slow and error-prone. But using an online calculator increased speed and accuracy 
+- I was doing the binary operations on paper, which was slow and error-prone. But using an online calculator increased speed and accuracy 
    
 # What I Learned:
-1. I learned that I don't need to reinvent the wheel and that using calculators and other likewise tools are useful for solving CTF challenges
+- learned that I don't need to reinvent the wheel and that using calculators and other likewise tools are useful for solving CTF challenges
 
