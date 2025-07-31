@@ -6,7 +6,7 @@
 
 **Date Completed:**  July 29, 2025
 
-**Writeup Published:** 
+**Writeup Published:** July 30, 2025
 
 **Directions:** 
 
