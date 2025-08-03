@@ -18,7 +18,7 @@
 - The problem was going to be about binary operation: thus I needed to know how to add, substract, multiply, divide, right shift, and left shift binary numbers. 
 
  # Strategy (During the Challenge):
-- Open up the link in the browser webshell - see what operation it wanted me to do - open up an online binary calculator - plug in the numbers- plug in the answers into the browser webshell
+- Open up the link in the browser webshell - see what [operation](https://www.geeksforgeeks.org/digital-logic/arithmetic-operations-of-binary-numbers/) and [bitwise](https://sudorudo.medium.com/bitwise-for-dummies-c1b996c21cbc) it wanted me to do - open up an online binary calculator - plug in the numbers- plug in the answers into the browser webshell
 
  # Tools Used:
  [Online Binary Operation Calculators:](https://www.calculator.net/binary-calculator.html)
