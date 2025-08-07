@@ -4,9 +4,9 @@
 
 **Difficulty:** Easy
 
-**Date Completed:** August 8th, 2025
+**Date Completed:** August 7th, 2025
 
-**Writeup Published:** August 8th, 2025
+**Writeup Published:** August 7th, 2025
 
 **Directions:** 
 
