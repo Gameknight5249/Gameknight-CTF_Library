@@ -1,36 +1,36 @@
 
 # Challenge Name: Big Zip
 
-## Category: General Skills
+## Category 📚: General Skills
 
-## Difficulty: Easy
+## Difficulty 🟢: Easy
 
 ## Solves as of: August 16, 2025 — <img width="1273" height="627" alt="Screenshot 2025-08-16 164221" src="https://github.com/user-attachments/assets/27ded781-2ecc-47cb-95fb-f7277e3c72cd" />
   
     This challenge has been solved by 53,159 players, showing it is widely completed and designed as an introductory problem.
 
-## Guide Published: August 17, 2025
+## Guide Published 📝: August 17, 2025
 
 ---
 
-## Challenge Summary
+## Challenge Summary 🧩
 You’re given a large [`".zip"`](https://www.dropbox.com/resources/what-is-a-zip-file#:~:text=ZIP%20is%20a%20common%20file,file%20in%20the%20original%20format.) archive containing hundreds of directories and files. The goal is to locate the hidden flag without manually checking each one.
 
 ---
 
-## Key Objective
+## Key Objective 🎯 
 Learn how to use the [`"grep"`](https://www.geeksforgeeks.org/linux-unix/grep-command-in-unixlinux/) command with the recursive option to efficiently search through large sets of files.
 
 ---
 
-## Prerequisites & Tools
+## Prerequisites & Tools 🔧
 - [`"unzip"`](https://www.geeksforgeeks.org/linux-unix/unzip-command-in-linux/) for extracting `.zip` archives  
 - `"grep"` for searching text patterns in files  
 - Basic Linux command line familiarity  
 
 ---
 
-## Walkthrough (with WHY)
+## Walkthrough 🚀 (with WHY)
 
 1. **Unzip the archive**  
    **WHY:** You need the files extracted locally so `"grep -r"` can actually search through them.   
@@ -59,14 +59,14 @@ Learn how to use the [`"grep"`](https://www.geeksforgeeks.org/linux-unix/grep-co
 
 ---
 
-## Common Mistakes
+## Common Mistakes ⚠️ 
 - Not all files unzipped properly (especially in browser shells), which caused `"grep -r"` to miss the flag.  
 - Forgetting the `-r` flag and only searching the current directory.  
 - Running the command outside the root of the extracted directory.  
 
 ---
 
-## Lessons Learned
+## Lessons Learned ✅
 - Always confirm that files are fully extracted before searching.  
 - `"grep -r"` is a fast and reliable way to search through large, nested directories.  
 - Checking your environment (e.g., browser shell vs. local machine) can prevent missing files. 
