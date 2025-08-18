@@ -69,6 +69,6 @@ Learn how to use the [`"grep"`](https://www.geeksforgeeks.org/linux-unix/grep-co
 ## Lessons Learned
 - Always confirm that files are fully extracted before searching.  
 - `"grep -r"` is a fast and reliable way to search through large, nested directories.  
-- Checking your environment (e.g., browser shell vs. local machine) can prevent missed files.  
+- Checking your environment (e.g., browser shell vs. local machine) can prevent missing files. 
 
 
