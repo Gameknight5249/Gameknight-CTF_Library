@@ -26,7 +26,7 @@ What is ["two's compliment"](https://www.cs.cornell.edu/~tomf/notes/cps104/twosc
 ChatGPT ( Used heavily to research concepts, commands, and keywords)
        - I used it to research "two compliment"  
 
-# Solution (What I Did During the Challenge: After 2 hours of research): 
+# Solution (What I Did During the Challenge): 
  - After 2 hours of research, I found an extremely simple answer
 1. Start playing the game
 2. Type 2 to buy the flag
