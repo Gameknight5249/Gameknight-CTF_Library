@@ -52,10 +52,10 @@ Use [`"gunzip"`](https://www.geeksforgeeks.org/linux-unix/gunzip-command-in-linu
        Caption: Filtered "strings" output via "grep -i" surfaces the flag.
 
 ## Common Mistakes ⚠️  
-1. Not checking how to handle the `".gz"` extension first, leading to confusion before analysis.  
-2. Using generic editors like `"cat"` or `"nano"` instead of targeted tools, which wastes time.
+- Not checking how to handle the `".gz"` extension first, leading to confusion before analysis.  
+- Using generic editors like `"cat"` or `"nano"` instead of targeted tools, which wastes time.
 
 ## Lessons Learned ✅  
-1. Practiced extracting `".gz"` archives with `"gunzip"`.  
-2. Learned how to use `"pipes"` to chain commands for faster searching.  
-3. Strengthened understanding of `"strings"` for pulling readable data out of binary files.
+- Practiced extracting `".gz"` archives with `"gunzip"`.  
+- Learned how to use `"pipes"` to chain commands for faster searching.  
+- Strengthened understanding of `"strings"` for pulling readable data out of binary files.
