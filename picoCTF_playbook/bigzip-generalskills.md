@@ -7,7 +7,7 @@
 
 ## Solves as of: August 16, 2025 — <img width="1273" height="627" alt="Screenshot 2025-08-16 164221" src="https://github.com/user-attachments/assets/27ded781-2ecc-47cb-95fb-f7277e3c72cd" />
   
-    This challenge has been solved by 53,159 players, showing it is widely completed and designed as an introductory problem.
+    Caption: This challenge has been solved by 53,159 players, showing it is widely completed and designed as an introductory problem.
 
 ## Guide Published 📝: August 17, 2025
 
