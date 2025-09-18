@@ -12,12 +12,12 @@ This challenge focuses on exploring a Git repository’s branch history to recov
 
 ---  
 
-### Key Objective 🎯  
+## Key Objective 🎯  
 Learn how to investigate Git branches and use version control commands to uncover hidden or fragmented data.  
 
 ---  
 
-### Prerequisites & Tools 🔧  
+## Prerequisites & Tools 🔧  
 - Ability to extract files using [`"unzip"`](https://www.geeksforgeeks.org/linux-unix/unzip-command-in-linux/)  
 - Familiarity with [`"cd"`](https://www.educative.io/answers/what-is-cd-in-linux), [`"ls"`](https://phoenixnap.com/kb/ls-command), [`"nano"`](https://ioflood.com/blog/nano-linux-command/), and [`"cat"`](https://phoenixnap.com/kb/linux-cat-command)  
 - Useful Git commands include:  
@@ -31,7 +31,7 @@ Learn how to investigate Git branches and use version control commands to uncove
 
 ---
 
-### Walkthrough 🚀 (with WHY)
+## Walkthrough 🚀 (with WHY)
 
 1. **Download and `"unzip"` the challenge files.**  
    WHY: This extracts the repository so you can explore its structure.  
@@ -76,14 +76,14 @@ Learn how to investigate Git branches and use version control commands to uncove
 
 ---
 
-### Common Mistakes ⚠️  
+## Common Mistakes ⚠️  
 - Spending time searching through every file instead of using Git commands.  
 - Forgetting to research what `"git branch -a"` does, which prevents discovering the branch structure.  
 - Assuming the flag would be in the working directory instead of the repository history.  
 
 ---
 
-### Lessons Learned ✅  
+## Lessons Learned ✅  
 - Git branches can hide different versions of files, and exploring them is key in many challenges.  
 - Commands like `"git show"` and `"git branch -a"` are essential for investigating repositories.  
 - Efficient research on commands can save significant time during challenges.  
