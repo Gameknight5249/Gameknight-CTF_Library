@@ -25,6 +25,8 @@ Exploit `"integer overflow"` in the shop’s signed balance to **increase** mone
 - Familiarity with [`"signed integers"`](https://www.ibm.com/docs/en/aix/7.2?topic=types-signed-unsigned-integers) vs [`"unsigned integers"`](https://www.ibm.com/docs/en/aix/7.2?topic=types-signed-unsigned-integers) for reasoning about wrap behavior.  
 - Comfort skimming C source to spot fragile arithmetic and I/O patterns like [`"scanf()"`](https://www.geeksforgeeks.org/c/scanf-in-c/) and [`"printf()"`](https://www.geeksforgeeks.org/c/printf-in-c/).
 
+---
+
 ## Walkthrough 🚀 (with WHY)
 1. **Connect to the shop service using "netcat".**  
    **WHY:** Interacting with the live service lets you confirm the menu options (e.g., a cheap decoy flag and an expensive premium flag) and observe how your balance changes after purchases.  
