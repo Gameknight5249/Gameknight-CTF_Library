@@ -7,7 +7,7 @@
     Caption: This challenge has been solved by 20,650 players, indicating it is a popular challenge that many players were able to complete.  
 ## Guide Published 📝: September 4, 2025
 
-### Challenge Summary 🧩  
+## Challenge Summary 🧩  
 This challenge focuses on exploring a Git repository’s branch history to recover hidden information. Instead of directly searching through files, you must navigate between branches and reconstruct the complete flag.  
 
 ---  
