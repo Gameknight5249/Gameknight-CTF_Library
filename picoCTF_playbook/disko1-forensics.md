@@ -7,6 +7,8 @@
     Caption: This challenge has been solved by 15,681 players, indicating it is accessible to many players yet demands persistence to complete.  
 ## Guide Published 📝: September 6, 2025
 
+---
+
 ## Challenge Summary 🧩  
 This challenge provides a compressed [`"disk image"`](https://www.techtarget.com/whatis/definition/disk-image) and asks you to locate the hidden flag. The key skill is recognizing the `".gz"` file format and applying [`"strings"`](https://labex.io/tutorials/linux-linux-strings-command-with-practical-examples-422934) with filtering to extract readable data.
 
@@ -23,6 +25,8 @@ Use [`"gunzip"`](https://www.geeksforgeeks.org/linux-unix/gunzip-command-in-linu
 - Comfort with `"strings"` to extract readable text  
 - Using `"grep -i"` to filter results  
 - Understanding of [`"pipes"`](https://www.geeksforgeeks.org/linux-unix/piping-in-unix-or-linux/) to chain commands
+
+---
 
 ## Walkthrough 🚀 (with WHY)
 
@@ -51,9 +55,13 @@ Use [`"gunzip"`](https://www.geeksforgeeks.org/linux-unix/gunzip-command-in-linu
  
        Caption: Filtered "strings" output via "grep -i" surfaces the flag.
 
+---
+
 ## Common Mistakes ⚠️  
 - Not checking how to handle the `".gz"` extension first, leading to confusion before analysis.  
 - Using generic editors like `"cat"` or `"nano"` instead of targeted tools, which wastes time.
+
+---
 
 ## Lessons Learned ✅  
 - Practiced extracting `".gz"` archives with `"gunzip"`.  
