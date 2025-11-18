@@ -1,4 +1,4 @@
-# Gameknight CTF Playbook
+# Gameknight CTF Library
 
 This repository is where I document my progress in cybersecurity through Capture the Flag challenges. It started as a place to store solutions, but over time it has turned into more of a personal learning system. Writing clear, repeatable guides helps me understand concepts at a deeper level than just solving a challenge once and forgetting about it.
 
