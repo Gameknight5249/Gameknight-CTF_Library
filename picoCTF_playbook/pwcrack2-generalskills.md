@@ -64,3 +64,10 @@ Identify how a program validates user input by reading its logic and infer the e
 - Chasing the encrypted file’s "encoding" instead of reading the checker’s "source code", which directly exposes how the password is generated.  
 - Forgetting to keep both files in the same "directory", causing file-not-found errors and blocking execution.  
 - Miscopying or misinterpreting the numbers passed to "chr", which reconstructs an incorrect password and fails validation.
+
+  ---
+
+## Lessons Learned ✅
+- Inspecting "source code" first often exposes the exact inputs needed, saving time over brute analysis of ciphertext.  
+- Recognizing patterns like "chr" over "Unicode code point" is a portable skill for rebuilding strings in Python-based challenges.  
+- Simple project hygiene—keeping artifacts in one "directory"—prevents avoidable errors and accelerates verification.
