@@ -5,7 +5,7 @@
 ## Solves as of: October 7, 2025— <img width="1275" height="661" alt="image" src="https://github.com/user-attachments/assets/62124450-baaa-433d-9e3e-94b29077278e" />
 
     Caption: This challenge has been solved by 45,741 players, indicating it is a popular challenge that many players were able to complete.
-## Guide Published 📝: [ADD GUIDE PUBLISHED DATE HERE]
+## Guide Published 📝: January 9, 2026
 ---
 
 ## Challenge Summary 🧩
