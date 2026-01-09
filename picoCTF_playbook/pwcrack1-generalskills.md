@@ -5,7 +5,7 @@
 ## Solves as of: October 7, 2025 — <img width="1276" height="666" alt="image" src="https://github.com/user-attachments/assets/1b93089e-0292-4ba2-9b56-1f126e02674d" />
 
     Caption: This challenge has been solved by 66,947 players, showing it is widely completed and designed as an introductory problem.
-## Guide Published 📝: [ADD GUIDE PUBLISHED DATE HERE]
+## Guide Published 📝: January 9, 2026
 ---
 
 ## Challenge Summary 🧩
