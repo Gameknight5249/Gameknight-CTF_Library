@@ -1,4 +1,4 @@
-# Challenge Name: FANTASY CTF
+# Challenge Name: FANTASY CTF    ( No need for a writeup) 
 
 **Category:** General Skills
 
